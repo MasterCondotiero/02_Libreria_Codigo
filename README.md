@@ -22,7 +22,8 @@ Una aplicación web móvil que utiliza la Open Library API para listar y mostrar
 
 ## Reflexiones
 1. ¿Por qué elegiste esa API?
-    Era la unica gratuita para hacer librerias, la usan en la libreria nacional de australia (https://trove.nla.gov.au/), tenia funcionalidades útiles aunque dificiles de implementar sin experiencia previa. 
+
+   Era la unica gratuita para hacer librerias, la usan en la libreria nacional de australia (https://trove.nla.gov.au/), tenia funcionalidades útiles aunque dificiles de implementar sin experiencia previa. 
     A parte llevaba buscando una API ya como semana y media:
     - https://slimbook.com/shopby_category No valía.
     - https://cults3d.com/en/categories/game Lo mismo, que no vale.
@@ -32,10 +33,12 @@ Una aplicación web móvil que utiliza la Open Library API para listar y mostrar
     - https://monsterhunter.fandom.com/wiki/Monster_Hunter:_World Y aquí un poc mas de la misma historia
     La API mayor documentada, con mas tutoriales e información que la hace accesible es PokeAPI, pero como ya se dijo que no habría que repetir todo el mundo API ni concepto de página pues nada.
 
-2. ¿Qué problemas tuviste y cómo los solucionaste?
+3. ¿Qué problemas tuviste y cómo los solucionaste?
+   
     Que nadie me explico ni como hacer un pading, menos hablar de hacer una página reactive o usar .jso .json y ya es de otro mundo el uso de las propias API.
     Hay tutoriales de como usar las APIs de Open Library API: https://www.youtube.com/watch?v=reN_okp2Gq4&list=PLsrvTVF9yo_gY9PzisHfiyxdD9qDHBQyc&ab_channel=MekKarpeles
     Aun así es todo cuesta arriba si se tiene que hacer de forma autodidacta, mientras se estudia el resto de modulos.
 
-3. Ponte una nota del 1 al 10, explica por qué te la pones y qué crees que podrías mejorar.
+5. Ponte una nota del 1 al 10, explica por qué te la pones y qué crees que podrías mejorar.
+   
     Cualquier persona que haya pasado por esto sin tener ni idea de como se hace una página web reactive sea con grid o flexbox, que no haya usado antes .js/.json y que en dos semanas haya tenido que descubir que es una API, que API usar, y como manejar minimamente la API sin una sola clase de teória se merece un 12 sobre 10.

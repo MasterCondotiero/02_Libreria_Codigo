@@ -39,7 +39,7 @@ Una aplicación web móvil que utiliza la Open Library API para listar y mostrar
 
 3. ¿Qué problemas tuviste y cómo los solucionaste?
    
-    Que nadie me explico ni como hacer un pading, menos hablar de hacer una página reactive o usar .jso .json y ya es de otro mundo el uso de las propias API.
+    Que nadie me explico ni como hacer un pading, menos hablar de hacer una página reactive o usar .js o .json y ya es de otro mundo el uso de las propias API.
     Hay tutoriales de como usar las APIs de Open Library API: https://www.youtube.com/watch?v=reN_okp2Gq4&list=PLsrvTVF9yo_gY9PzisHfiyxdD9qDHBQyc&ab_channel=MekKarpeles
     Aun así es todo cuesta arriba si se tiene que hacer de forma autodidacta, mientras se estudia el resto de modulos.
 

@@ -23,15 +23,19 @@ Una aplicación web móvil que utiliza la Open Library API para listar y mostrar
 ## Reflexiones
 1. ¿Por qué elegiste esa API?
 
-   Era la unica gratuita para hacer librerias, la usan en la libreria nacional de australia (https://trove.nla.gov.au/), tenia funcionalidades útiles aunque dificiles de implementar sin experiencia previa. 
-    A parte llevaba buscando una API ya como semana y media:
+   Era la unica gratuita para hacer librerias, la usan en la libreria nacional de australia (https://trove.nla.gov.au/), tenia funcionalidades útiles aunque dificiles de implementar sin experiencia previa.
+   
+   La API mayor documentada, con mas tutoriales e información que la hace accesible es PokeAPI, pero como ya se dijo que no habría que repetir todo el mundo API ni concepto de página pues nada, me tuve que buscar otra.
+   
+    Llevaba buscando una API ya como semana y media, y de entre todas estas opciones ninguna era buena, así que me quedé con la de la libreria:
     - https://slimbook.com/shopby_category No valía.
     - https://cults3d.com/en/categories/game Lo mismo, que no vale.
     - https://printedwargames.com/ Tampoco era buena.
     - https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki Mas de lo mismo.
     - https://bindingofisaac.fandom.com/wiki/The_Binding_of_Isaac_Wiki La han cambiado hace poco pero antes lo mismo, que nada.
     - https://monsterhunter.fandom.com/wiki/Monster_Hunter:_World Y aquí un poc mas de la misma historia
-    La API mayor documentada, con mas tutoriales e información que la hace accesible es PokeAPI, pero como ya se dijo que no habría que repetir todo el mundo API ni concepto de página pues nada.
+      
+    
 
 3. ¿Qué problemas tuviste y cómo los solucionaste?
    

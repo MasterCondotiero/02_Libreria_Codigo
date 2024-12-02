@@ -17,7 +17,7 @@ Una aplicación web móvil que utiliza la Open Library API para listar y mostrar
 3. Busca un libro o autor y haz clic en un resultado para ver los detalles.
 
 ## Créditos
-- Álvaro Campos Bolufer
+- Developer: Álvaro Campos Bolufer
 - API utilizada: [Open Library API](https://openlibrary.org/developers/api)
 
 ## Reflexiones

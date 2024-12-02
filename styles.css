@@ -1,0 +1,118 @@
+/* Variables de color */
+:root{
+  --colorCuerpo: #B1C29E;
+  --colorEncabezado: #659287;
+  --colorTexto: #333;
+}
+
+/* Estilos generales */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--colorCuerpo);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search-container {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  width: 250px;
+  max-width: 90%;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+  background-color: #659287;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+header {
+  width: 100%;
+  background-color: var(--colorEncabezado);
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.filters input,
+.filters button {
+  padding: 10px;
+  margin: 5px;
+  width: 100%;
+  max-width: 300px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  width: 80%;
+  max-width: 800px;
+}
+
+li {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 5px 0;
+  background-color: #fff;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+ul li:hover {
+  background: #e4e4e4;
+}
+
+#book-list {
+  margin-top: 20px;
+}
+
+/* Mensaje de error */
+#error-message {
+  color: red;
+  text-align: center;
+}
+
+/* Diseño responsive */
+@media (max-width: 768px) {
+  body {
+    width: 100%;
+  }
+
+  .filters input, .filters button {
+    max-width: 90%;
+  }
+}
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biblioteca Online</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Biblioteca Online</h1>
+  </header>
+  <main>
+    <!-- Buscador por ISBN -->
+    <div class="search-container">
+      <input type="text" id="isbn-search" placeholder="Buscar por ISBN">
+      <button onclick="searchByISBN()">Buscar por ISBN</button>
+    </div>
+
+    <!-- Buscador por nombre -->
+    <div class="search-container">
+      <input type="text" id="name-search" placeholder="Buscar por título o autor">
+      <button onclick="searchByName()">Buscar por nombre</button>
+    </div>
+
+    <!-- Resultado de libros -->
+    <ul id="book-list"></ul>
+    <div id="error-message" style="display:none;"></div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

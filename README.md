@@ -46,3 +46,4 @@ Una aplicación web móvil que utiliza la Open Library API para listar y mostrar
 5. Ponte una nota del 1 al 10, explica por qué te la pones y qué crees que podrías mejorar.
    
     Cualquier persona que haya pasado por esto sin tener ni idea de como se hace una página web reactive sea con grid o flexbox, que no haya usado antes .js/.json y que en dos semanas haya tenido que descubir que es una API, que API usar, y como manejar minimamente la API sin una sola clase de teória se merece un 12 sobre 10.
+   Siendo sinciero creo que si te has esforzado en encontrar una API y en entender como funciona JavaScript, y la página web que has creado funciona aunque sea parcialmente y es resposive la nota debería rondar el 7, ya dependiendo de cada API y la dificultad de implementarla puede variar si se merece mas o menos nota, pero creo que un 7 es una nota justa sabiendo la dificultat debida a los pocos conocimientos previos sobre el tema.
